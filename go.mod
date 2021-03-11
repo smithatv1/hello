@@ -1,4 +1,4 @@
-module github.ibm.com/smithatv1/hello
+module github.com/smithatv1/hello
 
 go 1.15
 
